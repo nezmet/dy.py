@@ -1,3 +1,4 @@
-# First Repository
+# dy.py
+# Dice roller for pen and paper RPGs!
 
-Hello, World!
+Created in class in an effort to learn python. Don't expect a practical use for this!
